@@ -1,7 +1,7 @@
 # Stephen Diteljan
 
-I'm Steve. I lead engineering teams and build software, with a current focus on AI applications, developer tools and data platforms.
+I'm Steve, an engineering leader who builds teams and stays close to implementation. My current focus is AI applications, developer tools and data platforms.
 
-My background includes engineering leadership at Capital One and Glu Mobile, and co-founding Warbler Safety as CTO and sole engineer.
+I've led teams building shared game services supporting millions of daily players at Glu Mobile and enterprise data initiatives at Capital One. Most recently, I co-founded Warbler Safety as CTO and sole engineer, working from customer discovery through application development and model evaluation.
 
-[Career background and contact on LinkedIn](https://www.linkedin.com/in/sditeljan/)
+I'm open to engineering leadership opportunities where I can develop people, shape technical direction and stay close to the work. I welcome conversations with founders, hiring teams and recruiters about relevant opportunities.
