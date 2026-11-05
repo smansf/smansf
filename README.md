@@ -6,4 +6,4 @@ I've led teams building shared game services supporting millions of daily player
 
 I'm open to engineering leadership opportunities where I can develop people, shape technical direction and stay close to the work. I welcome conversations with founders, hiring teams and recruiters about relevant opportunities.
 
-Career background on LinkedIn · Email: sditeljan@gmail.com
+Career background on [LinkedIn](https://www.linkedin.com/in/sditeljan/) · Email: sditeljan@gmail.com
